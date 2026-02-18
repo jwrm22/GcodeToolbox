@@ -32,7 +32,6 @@ This project was created out of my own need for a practical toolbox, and I want 
 # Version
 
 ## V3.0
-Download: [Gcode generator V3.0.zip](https://github.com/user-attachments/files/25385235/Gcode.generator.V3.0.zip)
 * Added advanced/simple mode
 * Added Import and export settings
 * Settings are now saved in localstorage so you can pick up where you left.
@@ -40,7 +39,6 @@ Download: [Gcode generator V3.0.zip](https://github.com/user-attachments/files/2
 
 
 ## V2.0
-Download: [Gcode generator V2.0.zip](https://github.com/user-attachments/files/25360136/Gcode.generator.V2.0.zip)
 * Added .dxf support (tested with .dxf's from Fusion360)
 * Added hexagon to shapes
 * Patterned holes shows total lenght
@@ -52,13 +50,11 @@ Download: [Gcode generator V2.0.zip](https://github.com/user-attachments/files/2
 
 
 ## V1.1
-Download:[Gcode generator V1.1.zip](https://github.com/user-attachments/files/25317890/Gcode.generator.V1.1.zip)
 * Fixed bug where in inch mode 0.25 was not allowed
 * Fixed bug where in inch mode the preview speed was slow
 * Added spindle speed control upon a users request. 
 
 ## V1.0
-Download: [Gcode generator V1.0.zip](https://github.com/user-attachments/files/25291703/Gcode.generator.V1.0.zip)
 * Multiple operation types
 > * Shapes (Pocket, inner and outer contour)
 > > * Circle
